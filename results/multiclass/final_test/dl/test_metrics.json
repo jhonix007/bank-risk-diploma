@@ -1,0 +1,44 @@
+{
+  "model": "text_standard",
+  "family": "deep_learning",
+  "seed": 42,
+  "split": "test",
+  "dataset_sha256": "52333a13e7fb6f6c4162486198fbf1d1ab368672a8974295995580a1924f67f3",
+  "n_samples": 751,
+  "macro_f1": 0.7329368906955114,
+  "risk_macro_f1": 0.648111658456486,
+  "macro_precision": 0.7669979079497907,
+  "macro_recall": 0.7107808761653329,
+  "weighted_f1": 0.9728080817662524,
+  "accuracy": 0.9733688415446072,
+  "confusion_matrix": [
+    [
+      706,
+      4,
+      1,
+      2
+    ],
+    [
+      5,
+      12,
+      0,
+      0
+    ],
+    [
+      5,
+      1,
+      11,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      2
+    ]
+  ],
+  "f1_no_risk": 0.9874125874125874,
+  "f1_cyber_risk": 0.6857142857142857,
+  "f1_operational_risk": 0.7586206896551724,
+  "f1_regulatory_risk": 0.5
+}

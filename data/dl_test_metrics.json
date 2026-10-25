@@ -1,0 +1,16 @@
+{
+  "model": "mDeBERTa (bank_context)",
+  "source": "Output of cell 20 in the earlier executed notebook1f834a8651.ipynb (PLAN=screen)",
+  "purpose": "Historical already-observed test result; do not use for model selection",
+  "metrics": {
+    "f1": 0.8648648648648649,
+    "precision": 0.8888888888888888,
+    "recall": 0.8421052631578947,
+    "ap": 0.9381533729159928,
+    "threshold": 0.9928001407290312,
+    "tp": 32,
+    "fp": 4,
+    "fn": 6,
+    "tn": 709
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-25",
+  "files": [
+    {
+      "target": "06_multiclass_mdeberta_kaggle.ipynb",
+      "kaggle_export": "notebook80586b8724(1).ipynb",
+      "source_sha256": "e0b324c21662b3279dcb6abf9410242df211a21077e4011171e1724c3e9c8701",
+      "n_cells": 18,
+      "n_code_cells": 8,
+      "n_executed_code_cells": 8,
+      "n_code_cells_with_outputs": 7,
+      "n_output_entries": 73,
+      "output_errors": 0,
+      "code_cells_with_cosmetic_wording_differences": [
+        2,
+        4
+      ],
+      "retrained": false,
+      "output_provenance": "Copied unchanged from the uploaded completed Kaggle notebook, aligned by cell index and verified against computational source code."
+    },
+    {
+      "target": "08_multiclass_seed_stability_kaggle.ipynb",
+      "kaggle_export": "notebook1d4179b110(1).ipynb",
+      "source_sha256": "ed6e0e639a91f85e2a78c12a9e13e6842151086e4c7bd26ae9b9a72871b754bc",
+      "n_cells": 16,
+      "n_code_cells": 7,
+      "n_executed_code_cells": 7,
+      "n_code_cells_with_outputs": 6,
+      "n_output_entries": 61,
+      "output_errors": 0,
+      "code_cells_with_cosmetic_wording_differences": [
+        2,
+        4,
+        11
+      ],
+      "retrained": false,
+      "output_provenance": "Copied unchanged from the uploaded completed Kaggle notebook, aligned by cell index and verified against computational source code."
+    }
+  ],
+  "dataset_sha256_expected": "52333a13e7fb6f6c4162486198fbf1d1ab368672a8974295995580a1924f67f3"
+}

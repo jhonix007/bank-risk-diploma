@@ -1,0 +1,45 @@
+{
+  "name": "LogisticRegression_bank_context_balanced",
+  "algorithm": "LogisticRegression",
+  "mode": "bank_context",
+  "class_weight": "balanced",
+  "dataset_sha256": "52333a13e7fb6f6c4162486198fbf1d1ab368672a8974295995580a1924f67f3",
+  "duration_sec": 3.81,
+  "macro_f1": 0.7380916722701061,
+  "risk_macro_f1": 0.6556669451406293,
+  "weighted_f1": 0.9703295686046537,
+  "accuracy": 0.9721854304635762,
+  "macro_precision": 0.8732638888888888,
+  "macro_recall": 0.7051698301698301,
+  "risk_recall": 0.6106227106227106,
+  "f1_no_risk": 0.9853658536585366,
+  "f1_cyber_risk": 0.7368421052631579,
+  "f1_operational_risk": 0.7857142857142857,
+  "f1_regulatory_risk": 0.4444444444444444,
+  "confusion_matrix": [
+    [
+      707,
+      4,
+      4,
+      0
+    ],
+    [
+      6,
+      14,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      11,
+      0
+    ],
+    [
+      5,
+      0,
+      0,
+      2
+    ]
+  ]
+}

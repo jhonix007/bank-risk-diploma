@@ -1,0 +1,30 @@
+{
+  "created_date": "2026-10-25",
+  "based_on_user_archive": "bank_risk_diploma_results_v4_2.rar",
+  "dataset_sha256": "52333a13e7fb6f6c4162486198fbf1d1ab368672a8974295995580a1924f67f3",
+  "multiclass_baseline_selected": "LogisticRegression_text_balanced",
+  "multiclass_dl_selected": "text_standard seed 42",
+  "test_multiclass_evaluated": true,
+  "files_added": [
+    "07_multiclass_comparison.ipynb",
+    "08_multiclass_seed_stability_kaggle.ipynb",
+    "09_multiclass_final_test_baseline_local.ipynb",
+    "10_multiclass_final_test_mdeberta_kaggle.ipynb",
+    "11_multiclass_final_test_comparison.ipynb",
+    "results/multiclass/dl/*",
+    "results/multiclass/stability/*"
+  ],
+  "removed_duplicate": "extra root-level 05_multiclass_baseline.ipynb from RAR outer directory",
+  "notes": "Исходные данные, веса и результаты сохранены. Веса mDeBERTa хранятся отдельно в Kaggle.",
+  "final_multiclass_test": {
+    "completed": true,
+    "baseline_macro_f1": 0.8206431656888438,
+    "mdeberta_macro_f1": 0.7329368906955114,
+    "evaluation_split": "test",
+    "n_samples": 751,
+    "test_predictions_from": [
+      "saved_logistic_regression_joblib",
+      "user_uploaded_kaggle_predictions"
+    ]
+  }
+}

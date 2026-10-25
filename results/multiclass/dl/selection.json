@@ -1,0 +1,10 @@
+{
+  "task": "risk_type_4cls",
+  "criterion": "maximum_validation_macro_f1",
+  "dataset_sha256": "52333a13e7fb6f6c4162486198fbf1d1ab368672a8974295995580a1924f67f3",
+  "name": "text_standard",
+  "validation": {
+    "macro_f1": 0.7500282109800939,
+    "risk_macro_f1": 0.6718181818181819
+  }
+}

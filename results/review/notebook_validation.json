@@ -1,0 +1,752 @@
+{
+  "syntax": {
+    "00_eda.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": 3,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 8,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 10,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": 6,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 14,
+        "execution_count": 7,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 16,
+        "execution_count": 8,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 18,
+        "execution_count": 9,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 20,
+        "execution_count": 10,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 22,
+        "execution_count": 11,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 24,
+        "execution_count": 12,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 26,
+        "execution_count": 13,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "01_baseline_training_reference.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 5,
+        "execution_count": 3,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 7,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 9,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 11,
+        "execution_count": 6,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": 7,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 14,
+        "execution_count": 8,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 16,
+        "execution_count": 9,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "02_training_experiments_archive.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": 14,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": 15,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": 16,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 8,
+        "execution_count": 17,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 10,
+        "execution_count": 18,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": 19,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 14,
+        "execution_count": 20,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 16,
+        "execution_count": 21,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 18,
+        "execution_count": 22,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 20,
+        "execution_count": 23,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "03_binary_experiments_comparison.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": 3,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 8,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 10,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": 6,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 14,
+        "execution_count": 7,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 16,
+        "execution_count": 8,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 18,
+        "execution_count": 9,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 20,
+        "execution_count": 10,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 23,
+        "execution_count": 11,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 26,
+        "execution_count": 12,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "05_multiclass_baseline.ipynb": [
+      {
+        "cell": 1,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 3,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 5,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 7,
+        "execution_count": 3,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 9,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 11,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "06_multiclass_mdeberta_kaggle.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 8,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 10,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 14,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 16,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "07_multiclass_comparison.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": 3,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 8,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 10,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": 6,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 14,
+        "execution_count": 7,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 16,
+        "execution_count": 8,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 18,
+        "execution_count": 9,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "08_multiclass_seed_stability_kaggle.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 7,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 9,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 11,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 13,
+        "execution_count": null,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "09_multiclass_final_test_baseline_local.ipynb": [
+      {
+        "cell": 1,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 2,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "10_multiclass_final_test_mdeberta_kaggle.ipynb": [
+      {
+        "cell": 1,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 2,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ],
+    "11_multiclass_final_test_comparison.ipynb": [
+      {
+        "cell": 2,
+        "execution_count": 1,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 4,
+        "execution_count": 2,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 6,
+        "execution_count": 3,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 8,
+        "execution_count": 4,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 10,
+        "execution_count": 5,
+        "syntax_error": null,
+        "saved_errors": []
+      },
+      {
+        "cell": 12,
+        "execution_count": 6,
+        "syntax_error": null,
+        "saved_errors": []
+      }
+    ]
+  },
+  "execution": {
+    "00_eda.ipynb": {
+      "success": true,
+      "cells": [
+        {
+          "cell": 2,
+          "execution_count": 2,
+          "errors": []
+        },
+        {
+          "cell": 4,
+          "execution_count": 3,
+          "errors": []
+        },
+        {
+          "cell": 6,
+          "execution_count": 4,
+          "errors": []
+        },
+        {
+          "cell": 8,
+          "execution_count": 5,
+          "errors": []
+        },
+        {
+          "cell": 10,
+          "execution_count": 6,
+          "errors": []
+        },
+        {
+          "cell": 12,
+          "execution_count": 7,
+          "errors": []
+        },
+        {
+          "cell": 14,
+          "execution_count": 8,
+          "errors": []
+        },
+        {
+          "cell": 16,
+          "execution_count": 9,
+          "errors": []
+        },
+        {
+          "cell": 18,
+          "execution_count": 10,
+          "errors": []
+        },
+        {
+          "cell": 20,
+          "execution_count": 11,
+          "errors": []
+        },
+        {
+          "cell": 22,
+          "execution_count": 12,
+          "errors": []
+        },
+        {
+          "cell": 24,
+          "execution_count": 13,
+          "errors": []
+        },
+        {
+          "cell": 26,
+          "execution_count": 14,
+          "errors": []
+        }
+      ]
+    },
+    "03_binary_experiments_comparison.ipynb": {
+      "success": true,
+      "cells": [
+        {
+          "cell": 2,
+          "execution_count": 2,
+          "errors": []
+        },
+        {
+          "cell": 4,
+          "execution_count": 3,
+          "errors": []
+        },
+        {
+          "cell": 6,
+          "execution_count": 4,
+          "errors": []
+        },
+        {
+          "cell": 8,
+          "execution_count": 5,
+          "errors": []
+        },
+        {
+          "cell": 10,
+          "execution_count": 6,
+          "errors": []
+        },
+        {
+          "cell": 12,
+          "execution_count": 7,
+          "errors": []
+        },
+        {
+          "cell": 14,
+          "execution_count": 8,
+          "errors": []
+        },
+        {
+          "cell": 16,
+          "execution_count": 9,
+          "errors": []
+        },
+        {
+          "cell": 18,
+          "execution_count": 10,
+          "errors": []
+        },
+        {
+          "cell": 20,
+          "execution_count": 11,
+          "errors": []
+        },
+        {
+          "cell": 23,
+          "execution_count": 12,
+          "errors": []
+        },
+        {
+          "cell": 26,
+          "execution_count": 13,
+          "errors": []
+        }
+      ]
+    },
+    "07_multiclass_comparison.ipynb": {
+      "success": true,
+      "cells": [
+        {
+          "cell": 2,
+          "execution_count": 2,
+          "errors": []
+        },
+        {
+          "cell": 4,
+          "execution_count": 3,
+          "errors": []
+        },
+        {
+          "cell": 6,
+          "execution_count": 4,
+          "errors": []
+        },
+        {
+          "cell": 8,
+          "execution_count": 5,
+          "errors": []
+        },
+        {
+          "cell": 10,
+          "execution_count": 6,
+          "errors": []
+        },
+        {
+          "cell": 12,
+          "execution_count": 7,
+          "errors": []
+        },
+        {
+          "cell": 14,
+          "execution_count": 8,
+          "errors": []
+        },
+        {
+          "cell": 16,
+          "execution_count": 9,
+          "errors": []
+        },
+        {
+          "cell": 18,
+          "execution_count": 10,
+          "errors": []
+        }
+      ]
+    },
+    "11_multiclass_final_test_comparison.ipynb": {
+      "success": true,
+      "cells": [
+        {
+          "cell": 2,
+          "execution_count": 2,
+          "errors": []
+        },
+        {
+          "cell": 4,
+          "execution_count": 3,
+          "errors": []
+        },
+        {
+          "cell": 6,
+          "execution_count": 4,
+          "errors": []
+        },
+        {
+          "cell": 8,
+          "execution_count": 5,
+          "errors": []
+        },
+        {
+          "cell": 10,
+          "execution_count": 6,
+          "errors": []
+        },
+        {
+          "cell": 12,
+          "execution_count": 7,
+          "errors": []
+        }
+      ]
+    }
+  }
+}
