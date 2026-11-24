@@ -1,1 +1,4 @@
 *.ipynb -text
+/data/bank_risk_news.csv -text
+/data/split_metadata.csv -text
+/data/dataset_manifest.json -text

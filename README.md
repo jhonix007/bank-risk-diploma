@@ -28,12 +28,12 @@
 
 ## Dataset и состав репозитория
 
-Использован Kaggle Dataset **`bank-risk-final`** из 4 473 публикаций. Ожидаемые файлы:
+Использован публичный Kaggle Dataset **`bank-risk-final`** из 4 473 публикаций. В каталоге `data/` опубликованы:
 
-- `bank_risk_news.csv`;
-- `split_metadata.csv`;
-- `dataset_manifest.json`.
+- [bank_risk_news.csv](data/bank_risk_news.csv);
+- [split_metadata.csv](data/split_metadata.csv);
+- [dataset_manifest.json](data/dataset_manifest.json).
 
-Исходный dataset не включён в репозиторий: условия его дальнейшего распространения не зафиксированы в предоставленном manifest. Для чтения сохранённых результатов он не требуется.
+Файлы сохранены в исходном виде; контрольные суммы CSV приведены в manifest. Для чтения сохранённых результатов Notebook dataset не требуется.
 
-Текущая версия репозитория содержит финальный Notebook и документацию. Локальные каталоги `sources/` и `archive/`, model weights, Kaggle Outputs и ZIP-архивы в неё не включены; веса и Outputs исключены из-за объёма. Git LFS для моделей не используется. Прежняя Git-история сохранена.
+Текущая версия репозитория содержит финальный Notebook, публичный dataset и документацию. Локальные каталоги `sources/` и `archive/`, model weights, Kaggle Outputs и ZIP-архивы в неё не включены; веса и Outputs исключены из-за объёма. Git LFS для моделей не используется. Прежняя Git-история сохранена.

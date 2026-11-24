@@ -1,7 +1,11 @@
 # Local / historical project material
 archive/
 sources/
-/data/
+# Public dataset: include only the three canonical files
+/data/*
+!/data/bank_risk_news.csv
+!/data/split_metadata.csv
+!/data/dataset_manifest.json
 /backups/
 /kaggle/
 /kaggle_output/
