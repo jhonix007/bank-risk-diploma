@@ -1,47 +1,79 @@
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
+# Local / historical project material
+archive/
+sources/
+/data/
+/backups/
+/kaggle/
+/kaggle_output/
+/kaggle_outputs/
+/output/
+/outputs/
+results (1)/
+results (2)/
+
+# Publish only the final submission Notebook
 *.ipynb
-!/bank_risk_diploma.ipynb
-.venv/
-venv/
+!/project_final/bank_risk_diploma_FINAL_for_submission.ipynb
+
+# Kaggle outputs and model artifacts
+**/runs/
+**/*.safetensors
+**/*.bin
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.joblib
+checkpoints/
+_predict_tmp/
+.huggingface/
+wandb/
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+
+# Jupyter / Python temporary files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.virtual_documents/
+**/.virtual_documents/
+__pycache__/
+**/__pycache__/
+*.py[cod]
 .validation_deps/
 .cache/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
-.huggingface/
-wandb/
-checkpoints/
-_predict_tmp/
-*.safetensors
-pytorch_model*.bin
-*.pt
-*.pth
-/kaggle/
-/kaggle_output/
-/kaggle_outputs/
-/bank_risk_diploma_final/
-/bank_risk_diploma_v2/
-/output/
-/outputs/
-/archive/
-/backups/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.partial
+*.bak
+*.backup
+*~
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local credentials
 .env
 .env.*
 !.env.example
 *.pem
 *.key
-*.tmp
-*.temp
-*.partial
-*.log
-*.bak
-*.backup
-*~
-*.zip
-*.tar
-*.tar.gz
-*.tgz
+
+# OS / IDE
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
