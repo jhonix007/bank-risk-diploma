@@ -1,3 +1,14 @@
+# Public repository layout: only the submission and canonical data
+/*
+!/.gitattributes
+!/.gitignore
+!/README.md
+!/data/
+!/project_final/
+/project_final/*
+!/project_final/README.md
+!/project_final/bank_risk_diploma_FINAL_for_submission.ipynb
+
 # Local / historical project material
 archive/
 sources/
@@ -75,6 +86,14 @@ env/
 !.env.example
 *.pem
 *.key
+kaggle.json
+credentials.json
+.netrc
+.aws/
+.azure/
+.config/gcloud/
+id_rsa
+id_ed25519
 
 # OS / IDE
 .DS_Store
